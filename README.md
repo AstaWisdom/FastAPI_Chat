@@ -110,3 +110,9 @@ authentication
 database integration
 
 ---
+How to run using env:
+Create a `.env` file based on `.env.example`
+
+Then run:
+
+uvicorn app.main:app --reload
