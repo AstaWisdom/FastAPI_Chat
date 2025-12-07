@@ -84,6 +84,30 @@ Create .env based on
 DATABASE_URL=postgresql://user:password@localhost:5432/chatdb
 SECRET_KEY=changeme
 
+🧪 Tests (coming soon)
+
+Planned:
+
+unit tests
+
+WebSocket connect tests
+
+message persistence tests
+
+🔧 Future Enhancements
+
+Docker & Docker Compose
+
+User typing state
+
+Delivery/read receipts
+
+Presence logic
+
+Message pagination
+
+Notification service
+
 🧪 Status
 
 This project is ready to be used as a real-time backend or extended into a full messaging platform.
