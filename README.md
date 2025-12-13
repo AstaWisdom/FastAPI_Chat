@@ -26,7 +26,7 @@ Designed for multi-room communication and persistent messaging with async archit
 - SQLAlchemy
 - PostgreSQL
 - JWT Auth
-- Docker (optional)
+- Docker
 - Python 3.11+
 
 ---
