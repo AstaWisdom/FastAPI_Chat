@@ -139,4 +139,4 @@ Create a `.env` file based on `.env.example`
 
 Then run:
 
-uvicorn app.main:app --reload
+uvicorn main:app --reload
